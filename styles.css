@@ -1,0 +1,65 @@
+*{
+    font-family: 'Roboto',Arial, sans-serif;
+    margin-left: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth; 
+}
+.navbar{
+	margin-top:30px;
+}
+.logo{
+	float:left;
+	width:15%;
+    margin-top:1px;
+	margin-left:80px;
+	color:#cc1019;
+}
+.leftnav{
+	float:left;
+	width:55%;
+	background: #00b563;
+}
+.navbar li{
+	display:inline-block;
+	font-family: 'Work Sans',Arial, sans-serif;
+	font-weight:600;
+	font-size:18px;
+	color:#314584;
+	padding:0 20px;
+}
+.illustartion img{
+	width:100%;
+}
+#video{
+	display:inline-block;
+	font-family: 'Work Sans',Arial, sans-serif;
+	font-weight:700; 
+	font-size:18px;
+}
+#project{
+	font-family: 'Work Sans',Arial, sans-serif;
+	font-weight: 700;
+	font-size:18px;
+}
+#skills{
+	font-family: 'Work Sans',Arial, sans-serif;
+	font-weight: 700;
+	font-size:18px;	
+}
+.tableau{
+	width:55%;
+    padding:0 20px;
+    padding-top: 50px;
+	padding-bottom: 50px;
+    margin-top:40px;
+}
+ h2{
+	
+	font-family: 'Work Sans',Arial, sans-serif;
+	font-weight:600;
+	font-size:30px;
+	color: #965043; 
+	padding:0 20px;
+	font-style: bold; 
+}
